@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on InovareGames
 - 📫 How to reach me Mikolay
 - 😄 Pronouns: InovareGames
-- ⚡ Fun fact: I'am a like to boxing and play bascetball
 
 <!---
 InovareGames/InovareGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
