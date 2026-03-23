@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @InovareGames
-- 👀 I’m interested in game development
+Game Developer
 - 🌱 I’m currently learning unity and C#
 - 📫 How to reach me Mikolay
 - 😄 Pronouns: InovareGames
